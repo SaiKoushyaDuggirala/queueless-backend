@@ -1,2 +1,19 @@
+# Maven build
 target/
 *.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+*.class
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
